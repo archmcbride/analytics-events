@@ -2,8 +2,10 @@
 	display: none;
 }
 
-#myNameInput {
+#opinionBox {
 	margin-top: 5px;
 	margin-bottom: 5px;
+	border: 2px solid black;
+	width: 300px;
 
 }
